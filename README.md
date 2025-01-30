@@ -1,12 +1,6 @@
 # Retail Sales Analysis SQL Project
 ![](https://github.com/daria2003-h/Sales_SQL_project_basic/blob/main/rs1_picture.jpeg)
 
-## Project Overview
-
-**Project Title**: Retail Sales Analysis  
-**Level**: Beginner  
-**Database**: `pg_database`
-
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. 
 
 ## Project Structure

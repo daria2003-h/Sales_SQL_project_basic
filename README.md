@@ -35,17 +35,17 @@ where transactions_id is null
 		or total_sale is null;
 ```
 ## 2.Data exploration
-*How many sales do we have?
+**How many sales do we have?**
 ```sql	
 select count (*) as total_sales
 from retail_sales rs; 
 ```	
-*How many distinct customers do we have ?
+**How many distinct customers do we have ?**
 ```sql
 select count (distinct customer_id) as unique_customers 
 from retail_sales rs ;
 ```
-*How many unique categories do we have?
+**How many unique categories do we have?**
 ```sql
 select distinct category as unique_categories 
 from retail_sales rs ;

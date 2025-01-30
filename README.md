@@ -1,4 +1,5 @@
 # Retail Sales Analysis SQL Project
+![](https://github.com/daria2003-h/Sales_SQL_project_basic/blob/main/rs1_picture.jpeg)
 
 ## Project Overview
 
